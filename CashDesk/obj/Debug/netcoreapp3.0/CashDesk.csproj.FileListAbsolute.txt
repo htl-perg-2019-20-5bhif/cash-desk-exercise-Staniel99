@@ -1,0 +1,8 @@
+D:\5BHIF\MC\cash-desk-exercise-Staniel99\CashDesk\bin\Debug\netcoreapp3.0\CashDesk.deps.json
+D:\5BHIF\MC\cash-desk-exercise-Staniel99\CashDesk\bin\Debug\netcoreapp3.0\CashDesk.dll
+D:\5BHIF\MC\cash-desk-exercise-Staniel99\CashDesk\bin\Debug\netcoreapp3.0\CashDesk.pdb
+D:\5BHIF\MC\cash-desk-exercise-Staniel99\CashDesk\obj\Debug\netcoreapp3.0\CashDesk.csprojAssemblyReference.cache
+D:\5BHIF\MC\cash-desk-exercise-Staniel99\CashDesk\obj\Debug\netcoreapp3.0\CashDesk.AssemblyInfoInputs.cache
+D:\5BHIF\MC\cash-desk-exercise-Staniel99\CashDesk\obj\Debug\netcoreapp3.0\CashDesk.AssemblyInfo.cs
+D:\5BHIF\MC\cash-desk-exercise-Staniel99\CashDesk\obj\Debug\netcoreapp3.0\CashDesk.dll
+D:\5BHIF\MC\cash-desk-exercise-Staniel99\CashDesk\obj\Debug\netcoreapp3.0\CashDesk.pdb

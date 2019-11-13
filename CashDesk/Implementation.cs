@@ -2,13 +2,22 @@
 using System.Collections.Generic;
 using System.Threading.Tasks;
 
-namespace CashDesk
-{
+namespace CashDesk{
     /// <inheritdoc />
-    public class DataAccess : IDataAccess
-    {
+    public class DataAccess : IDataAccess{
+
+        CashDeskContext context = null;
         /// <inheritdoc />
-        public Task InitializeDatabaseAsync() => throw new NotImplementedException();
+
+        public Task InitializeDatabaseAsync(){ 
+            if(context == null){
+                context = new CashDeskContext();
+            }else{
+                throw new InvalidOperationException("Method has already been called");
+            }
+
+            return Task.CompletedTask;
+        }
 
         /// <inheritdoc />
         public Task<int> AddMemberAsync(string firstName, string lastName, DateTime birthday)
